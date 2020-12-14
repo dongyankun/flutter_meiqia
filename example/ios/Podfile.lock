@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_meiqia (0.0.1):
+  - flutter_meiqia (0.0.4):
     - Flutter
     - Meiqia
   - Meiqia (3.5.0):
@@ -15,7 +15,7 @@ DEPENDENCIES:
   - flutter_meiqia (from `.symlinks/plugins/flutter_meiqia/ios`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - Meiqia
 
 EXTERNAL SOURCES:
@@ -25,10 +25,10 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_meiqia/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
-  flutter_meiqia: 89b6e742b1ee51a9fc5edad6741bf6e0dd4136b2
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_meiqia: 394d03b5cee5c4ef6cb91f26148634bc87e1d5ea
   Meiqia: e11c64f46a174e149e82678e744a552919dc0ecb
 
 PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.10.0.rc.1
